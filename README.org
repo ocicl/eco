@@ -1,0 +1,10 @@
+* eco
+
+Fast, flexible, designer-friendly templates for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/eco.git   |
+| commit  | 0052f5e  |
+| systems | eco |
+|---------+-------------------------------------------|
+
